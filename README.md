@@ -3,7 +3,7 @@ tweejump_joybox
 
 ![Tweejump](http://iplayful.com/tweejump/tweejump.jpg)
 
-Example based on cocos2d [example](https://github.com/haqu/tweejump/edit/master/README.md)
+Example based on cocos2d [example](https://github.com/haqu/tweejump)
 
 ## License
 
