@@ -34,8 +34,6 @@ class BackgroundLayer < Joybox::Core::Layer
 			@@clouds << cloud
 			reset_cloud cloud, 0
 		end
-
-		#reset_clouds
 	end
 
 	def reset_clouds

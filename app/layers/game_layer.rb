@@ -123,9 +123,7 @@ class GameLayer < Joybox::Core::Layer
 
 			@current_platform_y -= delta
 
-			# So uglu decision :(
 			BackgroundLayer.move_clouds delta
-
 
 			@platforms.each do |platform|
 				platform_pos = platform.position

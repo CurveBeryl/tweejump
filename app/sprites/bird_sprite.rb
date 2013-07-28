@@ -2,9 +2,6 @@ class BirdSprite < Joybox::Core::Sprite
 
 	attr_accessor :velocity
 	attr_accessor :acceleration
-
-	def initialize
-	end
 	
 	def look_right?
 		@look_right
@@ -62,6 +59,5 @@ class BirdSprite < Joybox::Core::Sprite
 
 
 		setPosition position
-
 	end
 end
